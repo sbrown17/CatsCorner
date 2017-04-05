@@ -1,0 +1,31 @@
+#top-row {
+	background-color:lightblue;
+	padding-right:40px;
+	padding-bottom:20px;
+}
+.main-background {
+	background-color:#070707;
+}
+h1 {
+	color:#ffffff;
+}
+p {
+	color:#ffffff;
+}
+#cat-tree {
+	height: 250px;
+	margin-top:30px;
+	margin-left:150px;
+
+}
+img {
+	margin-top:20px;
+	height:60px;
+}
+#cat-carousel {
+	margin-top:30px;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	margin: auto;
+}
